@@ -1,6 +1,6 @@
 # Gitcoin Visual DataAnalysis from Grant 1-12 [DASHBOARD]
 
-# LIVE VIEW: [CLICK HERE](https://onedrive.live.com/view.aspx?resid=92B7D691768D8DB2!112&ithint=file%2cxlsx&authkey=!AAdMHmfkaYzmdqk)
+# LIVE VIEW: [CLICK HERE](https://1drv.ms/x/s!ArKNjXaR1reSclf0hGxfVEVkIkQ)
 
 Gitcoin is the community of builders, creators, and protocols at the center of open web ecosystems. <br>
 People come to Gitcoin to develop their future [<b> One of them is me </b>], and the future of the open internet.
